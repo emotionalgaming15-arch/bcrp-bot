@@ -1,0 +1,18 @@
+{
+  "name": "bcrp-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Bounty County Roleplay ER:LC Server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["discord", "bot", "erlc", "roleplay"],
+  "author": "emotionalgaming15-arch",
+  "license": "MIT"
+}
