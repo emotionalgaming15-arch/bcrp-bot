@@ -1,0 +1,26 @@
+{
+  "guilds": {
+    "default": {
+      "promotionLogChannel": "1234567890",
+      "infractionLogChannel": "1234567890",
+      "loaLogChannel": "1234567890",
+      "serverStatusChannel": "1234567890",
+      "adminRoles": {
+        "promotion": ["1234567890"],
+        "infraction": ["1234567890"],
+        "loa": ["1234567890"],
+        "serverStatus": ["1234567890"]
+      },
+      "staffRanks": [
+        "Recruit",
+        "Moderator",
+        "Senior Moderator",
+        "Administrator",
+        "Senior Administrator",
+        "Manager",
+        "Director",
+        "Owner"
+      ]
+    }
+  }
+}
